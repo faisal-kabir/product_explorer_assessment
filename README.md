@@ -30,13 +30,15 @@
 ## 📱 Screenshots
 
 <p align="center">
-  <img src="assets/product_list.png" width="300" alt="Product List Screen" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="assets/product_details.png" width="300" alt="Product Details Screen" />
+  <img src="assets/splash_screen.png" width="245" alt="Splash Screen" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="assets/product_list.png" width="245" alt="Product List Screen" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="assets/product_details.png" width="245" alt="Product Details Screen" />
 </p>
 
 <p align="center">
-  <i>Product List (Infinite Pagination & 2-Column Grid) &nbsp;•&nbsp; Product Details (Gallery, Specs, Reviews & Policies)</i>
+  <i>1. Splash Screen &nbsp;•&nbsp; 2. Product Explorer (List) &nbsp;•&nbsp; 3. Product Details</i>
 </p>
 
 ---
